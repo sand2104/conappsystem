@@ -1,0 +1,8 @@
+C:\data\conappsystem\conappsystem\obj\Debug\conappsystem.csproj.AssemblyReference.cache
+C:\data\conappsystem\conappsystem\obj\Debug\conappsystem.csproj.SuggestedBindingRedirects.cache
+C:\data\conappsystem\conappsystem\obj\Debug\conappsystem.csproj.CoreCompileInputs.cache
+C:\data\conappsystem\conappsystem\bin\Debug\conappsystem.exe.config
+C:\data\conappsystem\conappsystem\bin\Debug\conappsystem.exe
+C:\data\conappsystem\conappsystem\bin\Debug\conappsystem.pdb
+C:\data\conappsystem\conappsystem\obj\Debug\conappsystem.exe
+C:\data\conappsystem\conappsystem\obj\Debug\conappsystem.pdb
